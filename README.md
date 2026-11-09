@@ -1,3 +1,5 @@
+    Desenvolvido por: Davi Reis RIbeiro, Antônio Marcos, Webster Dantas, Arthur Henriques
+    
 🛡️ Guardiões da AVL — Jogo Didático de Árvores Balanceadas
 
 Projeto desenvolvido para a disciplina de Estruturas de Dados II, do curso de Ciência da Computação.
